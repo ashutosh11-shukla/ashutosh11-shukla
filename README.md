@@ -15,9 +15,8 @@ I am a passionate **Bachelor of Technology student** specializing in **Artificia
 - **Tools & Frameworks:** Firebase, Android Studio, Git, MySQL  
 
 ## 🌟 Featured Projects
-- [VAAC (Virtual Assistant App)](https://github.com/ashutosh11-shukla/VAAC)  
-- [VM World (Website)](https://github.com/ashutosh11-shukla/VM-World)  
-- [Safe Pick (Software)](https://github.com/ashutosh11-shukla/Safe-Pick)  
+- [VAAC (Virtual Assistant App)](https://github.com/ashutosh11-shukla/VAAC)    
+- [Safe Vibe (Software)](https://github.com/ashutosh11-shukla/Safe-Pick)  
 
 ## 📈 Stats
 ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashutosh11-shukla&show_icons=true&theme=radical)  
